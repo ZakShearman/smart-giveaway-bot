@@ -3,7 +3,7 @@ plugins {
     id("java")
     id("com.github.johnrengelman.shadow") version "7.0.0"
     id("jacoco")
-    id("io.freefair.lombok") version "6.1.0-m3"
+    id("io.freefair.lombok") version "6.1.0"
 }
 
 group "pink.zak.giveawaybot"
