@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    implementation("net.dv8tion:JDA:4.3.0_303") { exclude module: "opus-java" }
+    implementation("net.dv8tion:JDA:4.3.0_310") { exclude module: "opus-java" }
     implementation("com.timvisee:yamlwrapper:1.2.0")
     implementation("com.vdurmont:emoji-java:5.1.1")
 
